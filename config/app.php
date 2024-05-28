@@ -6,11 +6,15 @@ define('BD_PASSWORD','');
 define('BD_DATABASE','defint');
 
 
-
+function base_url($slug)
+{
+    echo SITE_URL.$slug; 
+}
 
 function redirect($message,$page)
 {
  $redirectTo=SITE_URL.$page; 
+
  $_SESSION['message']="$message";
   header("Location: $redirectTo");
   exit(0);
