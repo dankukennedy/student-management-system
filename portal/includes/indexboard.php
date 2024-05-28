@@ -265,7 +265,7 @@
                         <!-- end progress bar -->
                      </div>
                      <div class="row column4 graph">
-                        <div class="col-md-6">
+                        <div class="col-md-6 margin_bottom_30">
                            <div class="dash_blog">
                               <div class="dash_blog_inner">
                                  <div class="dash_head">
@@ -303,7 +303,7 @@
                                        <li>
                                           <span><img src="images/layout_img/msg2.png" class="img-responsive" alt="#" /></span>
                                           <span>
-                                          <span class="name_user">John Smith</span>
+                                          <span class="name_user">Herman Beck</span>
                                           <span class="msg_user">Sed ut perspiciatis unde omnis.</span>
                                           <span class="time_ago">12 min ago</span>
                                           </span>
@@ -345,7 +345,7 @@
                   <!-- footer -->
                   <div class="container-fluid">
                      <div class="footer">
-                        <p>Copyright © 2018 Designed by html.design. All rights reserved.<br><br>
+                        <p>Copyright © 2018 All rights reserved.<br><br>
                           <!-- Distributed By: <a href="https://themewagon.com/">ThemeWagon</a>-->
                         </p>
                      </div>

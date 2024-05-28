@@ -32,5 +32,8 @@
       <script src="js/custom.js"></script>
       <!-- calendar file css -->    
       <script src="js/semantic.min.js"></script>
+       <!-- google map js -->
+       <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8eaHt9Dh5H57Zh0xVTqxVdBFCvFMqFjQ&callback=initMap"></script>
+      <!-- end google map js -->
    </body>
 </html>

@@ -1,7 +1,7 @@
-
-   </div>
+    
+ </div>
+    </div>
       </div>
-        </div>
       <!-- jQuery -->
       <script src="js/jquery.min.js"></script>
       <script src="js/popper.min.js"></script>
@@ -23,14 +23,15 @@
          var ps = new PerfectScrollbar('#sidebar');
       </script>
       <!-- custom js -->
-      <script src="js/chart_custom_style1.js"></script>
       <script src="js/custom.js"></script>
+      <script src="js/chart_custom_style2.js"></script>
       <!-- fancy box js -->
       <script src="js/jquery-3.3.1.min.js"></script>
       <script src="js/jquery.fancybox.min.js"></script>
-      <!-- custom js -->
-      <script src="js/custom.js"></script>
       <!-- calendar file css -->    
       <script src="js/semantic.min.js"></script>
+       <!-- google map js -->
+       <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8eaHt9Dh5H57Zh0xVTqxVdBFCvFMqFjQ&callback=initMap"></script>
+      <!-- end google map js -->
    </body>
 </html>

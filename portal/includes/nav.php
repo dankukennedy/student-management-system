@@ -25,9 +25,9 @@
                            <li>
                               <a href="dashboard.php">> <span>Default Dashboard</span></a>
                            </li>
-                           <li>
+                          <!-- <li>
                               <a href="dashboard1.php">> <span>Dashboard style 2</span></a>
-                           </li>
+                           </li>-->
                         </ul>
                      </li>
                      <li><a href="widgets.php"><i class="fa fa-clock-o orange_color"></i> <span>Widgets</span></a></li>
