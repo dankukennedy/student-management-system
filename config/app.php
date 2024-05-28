@@ -3,8 +3,13 @@ session_start();
 define('BD_HOST','localhost');
 define('BD_USER','root');
 define('BD_PASSWORD','');
-define('BD_DATABASE','defint');
+define('BD_DATABASE','sms_db');
 
+
+include_once('DatabaseConnection.php');
+$db=new DatabaseConnection;
+
+//include('codes/authentication_code.php');
 
 function base_url($slug)
 {
