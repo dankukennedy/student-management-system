@@ -7,7 +7,7 @@ define('BD_DATABASE','sms_db');
 
 
 include_once('DatabaseConnection.php');
-$db=new DatabaseConnection;
+$db = new DatabaseConnection;
 
 //include('codes/authentication_code.php');
 
