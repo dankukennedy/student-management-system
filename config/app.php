@@ -7,6 +7,7 @@ define('BD_DATABASE','defint');
 
 
 
+
 function redirect($message,$page)
 {
  $redirectTo=SITE_URL.$page; 
