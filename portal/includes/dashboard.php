@@ -8,11 +8,11 @@
                         </div>
                      </div>
                      <div class="row column1">
-                        <div class="col-md-6 col-lg-3">
-                           <div class="full counter_section margin_bottom_30">
+                        <div class="col-md-6 col-lg-3" >
+                           <div class="full counter_section margin_bottom_30" style="cursor:pointer;">
                               <div class="couter_icon">
                                  <div> 
-                                    <i class="fa fa-user yellow_color"></i>
+                                    <i class="fa fa-user yellow_color" ></i>
                                  </div>
                               </div>
                               <div class="counter_no">
@@ -24,10 +24,10 @@
                            </div>
                         </div>
                         <div class="col-md-6 col-lg-3">
-                           <div class="full counter_section margin_bottom_30">
+                           <div class="full counter_section margin_bottom_30" style="cursor:pointer;">
                               <div class="couter_icon">
                                  <div> 
-                                    <i class="fa fa-clock-o blue1_color"></i>
+                                    <i class="fa fa-clock-o blue1_color" ></i>
                                  </div>
                               </div>
                               <div class="counter_no">
@@ -42,7 +42,7 @@
                            <div class="full counter_section margin_bottom_30">
                               <div class="couter_icon">
                                  <div> 
-                                    <i class="fa fa-cloud-download green_color"></i>
+                                    <i class="fa fa-cloud-download green_color" style="cursor:pointer;"></i>
                                  </div>
                               </div>
                               <div class="counter_no">
@@ -54,7 +54,7 @@
                            </div>
                         </div>
                         <div class="col-md-6 col-lg-3">
-                           <div class="full counter_section margin_bottom_30">
+                           <div class="full counter_section margin_bottom_30" style="cursor:pointer;">
                               <div class="couter_icon">
                                  <div> 
                                     <i class="fa fa-comments-o red_color"></i>
@@ -71,7 +71,7 @@
                      </div>
                      <div class="row column1 social_media_section">
                         <div class="col-md-6 col-lg-3">
-                           <div class="full socile_icons fb margin_bottom_30">
+                           <div class="full socile_icons fb margin_bottom_30"  style="cursor:pointer;">
                               <div class="social_icon">
                                  <i class="fa fa-facebook"></i>
                               </div>
@@ -90,9 +90,9 @@
                            </div>
                         </div>
                         <div class="col-md-6 col-lg-3">
-                           <div class="full socile_icons tw margin_bottom_30">
+                           <div class="full socile_icons tw margin_bottom_30"  style="cursor:pointer;">
                               <div class="social_icon">
-                                 <i class="fa fa-twitter"></i>
+                                 <i class="fa fa-twitter" ></i>
                               </div>
                               <div class="social_cont">
                                  <ul>
@@ -109,9 +109,9 @@
                            </div>
                         </div>
                         <div class="col-md-6 col-lg-3">
-                           <div class="full socile_icons linked margin_bottom_30">
+                           <div class="full socile_icons linked margin_bottom_30" style="cursor:pointer;">
                               <div class="social_icon">
-                                 <i class="fa fa-linkedin"></i>
+                                 <i class="fa fa-linkedin" ></i>
                               </div>
                               <div class="social_cont">
                                  <ul>
@@ -127,10 +127,10 @@
                               </div>
                            </div>
                         </div>
-                        <div class="col-md-6 col-lg-3">
-                           <div class="full socile_icons google_p margin_bottom_30">
+                        <div class="col-md-6 col-lg-3" >
+                           <div class="full socile_icons google_p margin_bottom_30" style="cursor:pointer;">
                               <div class="social_icon">
-                                 <i class="fa fa-google-plus"></i>
+                                 <i class="fa fa-google-plus" ></i>
                               </div>
                               <div class="social_cont">
                                  <ul>
@@ -148,7 +148,7 @@
                         </div>
                      </div>
                      <!-- graph -->
-                     <div class="row column2 graph margin_bottom_30">
+                     <div class="row column2 graph margin_bottom_30" style="cursor:pointer;">
                         <div class="col-md-l2 col-lg-12">
                            <div class="white_shd full">
                               <div class="full graph_head">
@@ -174,7 +174,7 @@
                      <div class="row column3">
                         <!-- testimonial -->
                         <div class="col-md-6">
-                           <div class="dark_bg full margin_bottom_30">
+                           <div class="dark_bg full margin_bottom_30" style="cursor:pointer;">
                               <div class="full graph_head">
                                  <div class="heading1 margin_0">
                                     <h2>Testimonial</h2>
@@ -220,7 +220,7 @@
                         <!-- end testimonial -->
                         <!-- progress bar -->
                         <div class="col-md-6">
-                           <div class="white_shd full margin_bottom_30">
+                           <div class="white_shd full margin_bottom_30" style="cursor:pointer;">
                               <div class="full graph_head">
                                  <div class="heading1 margin_0">
                                     <h2>Progress Bar</h2>
@@ -345,7 +345,7 @@
                   <!-- footer -->
                   <div class="container-fluid">
                      <div class="footer">
-                        <p>Copyright © 2018 Designed by html.design. All rights reserved.<br><br>
+                        <p>Copyright © 2018 All rights reserved.<br><br>
                           <!-- Distributed By: <a href="https://themewagon.com/">ThemeWagon</a>-->
                         </p>
                      </div>
