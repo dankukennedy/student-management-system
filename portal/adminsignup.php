@@ -11,24 +11,33 @@
                      </div>
                   </div>
                   <div class="login_form">
+                    <h2 style="text-align:center;"> Admin Login Portal</h2><br>
                      <form>
                         <fieldset>
                            <div class="field">
-                              <label class="label_field">Email Address</label>
-                              <input type="email" name="email" placeholder="E-mail" />
+                              <label class="label_field">Users </label>
+                              <select id="users" name ="user" >
+                              <option selected>Choose...</option>
+                              <option value="admin">Admin</option>
+                              <option value="manager">Manager</option>
+                              <option value="accountant">Accountant</option>
+                            </select>
+                           </div>
+                           <div class="field">
+                              <label class="label_field">Email</label>
+                              <input type="email" name="email" placeholder=" Enter Email Here" />
                            </div>
                            <div class="field">
                               <label class="label_field">Password</label>
-                              <input type="password" name="password" placeholder="Password" />
+                              <input type="password" name="password" placeholder="Enter Password" />
                            </div>
                            <div class="field">
-                              <label class="label_field hidden">hidden label</label>
-                              <label class="form-check-label"><input type="checkbox" class="form-check-input"> Remember Me</label>
-                              <a class="forgot" href="">Forgotten Password?</a>
+                           <label class="label_field">Re-Password</label>
+                              <input type="password" name="password1" placeholder="Enter Password" />
                            </div>
                            <div class="field margin_0">
                               <label class="label_field hidden">hidden label</label>
-                              <button class="main_bt">Sing In</button>
+                              <button class="main_bt" type = "submit">Register New User</button>
                            </div>
                         </fieldset>
                      </form>

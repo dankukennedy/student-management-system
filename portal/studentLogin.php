@@ -1,5 +1,6 @@
 <?php include "includes/logheader.php" ?>
 
+   </head>
    <body class="inner_page login">
       <div class="full_container">
          <div class="container">
@@ -11,20 +12,21 @@
                      </div>
                   </div>
                   <div class="login_form">
+                    <h2 style="text-align:center;"> Student Login Portal</h2><br>
                      <form>
                         <fieldset>
                            <div class="field">
-                              <label class="label_field">Email Address</label>
-                              <input type="email" name="email" placeholder="E-mail" />
+                              <label class="label_field">Student ID</label>
+                              <input type="studentId" name="studentId" placeholder=" Enter Student ID Here" />
                            </div>
                            <div class="field">
                               <label class="label_field">Password</label>
-                              <input type="password" name="password" placeholder="Password" />
+                              <input type="password" name="password" placeholder="Enter Password" />
                            </div>
                            <div class="field">
                               <label class="label_field hidden">hidden label</label>
                               <label class="form-check-label"><input type="checkbox" class="form-check-input"> Remember Me</label>
-                              <a class="forgot" href="">Forgotten Password?</a>
+                              <a class="forgot" href="#">Forgotten Password?</a>
                            </div>
                            <div class="field margin_0">
                               <label class="label_field hidden">hidden label</label>
@@ -37,5 +39,5 @@
             </div>
          </div>
       </div>
-
+     
       <?php include "includes/logfooter.php" ?>
