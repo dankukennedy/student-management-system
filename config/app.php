@@ -7,6 +7,7 @@ define('BD_DATABASE','sms_db');
 
 
 include_once('DatabaseConnection.php');
+
 $db = new DatabaseConnection;
 
 //include('codes/authentication_code.php');
@@ -18,7 +19,7 @@ function base_url($slug)
 
 function redirect($message,$page)
 {
- $redirectTo=SITE_URL.$page; 
+ $redirectTo = SITE_URL.$page; 
 
  $_SESSION['message']="$message";
   header("Location: $redirectTo");
