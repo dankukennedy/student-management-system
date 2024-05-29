@@ -1,6 +1,5 @@
 <?php include "includes/logheader.php" ?>
 
-   </head>
    <body class="inner_page login">
       <div class="full_container">
          <div class="container">
@@ -12,7 +11,7 @@
                      </div>
                   </div>
                   <div class="login_form">
-                    <h2 style="text-align:center;"> Student Login Portal</h2><br>
+                    <h2 style="text-align:center;"> Admin Login Portal</h2><br>
                      <form>
                         <fieldset>
                            <div class="field">
@@ -39,5 +38,5 @@
             </div>
          </div>
       </div>
-     
+    
       <?php include "includes/logfooter.php" ?>
